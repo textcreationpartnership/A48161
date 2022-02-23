@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend concerning credit, and how it may be restor'd to the Bank of England being the original of a copy lately published, whereni [sic] were many alterations and additions that are not in this / now published by the author.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48161</idno>
+            <idno type="STC">Wing L1639A</idno>
+            <idno type="STC">ESTC R37603</idno>
+            <idno type="EEBO-CITATION">16978619</idno>
+            <idno type="OCLC">ocm 16978619</idno>
+            <idno type="VID">105617</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105617)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1096:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend concerning credit, and how it may be restor'd to the Bank of England being the original of a copy lately published, whereni [sic] were many alterations and additions that are not in this / now published by the author.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andr. Bell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England.</term>
+               <term>Fiscal policy --  England.</term>
+               <term>Banks and banking --  England --  Government guaranty of deposits.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105617:1"/>
+            <head>A Letter to a Friend concerning <hi>CREDIT,</hi> and how it may be reſtor'd to the <hi>Bank of ENGLAND:</hi> Being the Original of a Copy lately publiſhed, wherein were many Alterations and Additions that are not in this, now publiſhed by the Author.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR Affection for the preſent Government, and that prudent Zeal and Concern you have conſtantly expreſs'd for the Honour and Wel<g ref="char:EOLhyphen"/>fare of your Countrey, have induced me to offer you my Thoughts upon the preſent Circumſtances of our Affairs with relation to Credit: and I think I cannot begin more properly than by conſidering the na<g ref="char:EOLhyphen"/>tural Cauſes of it, as obtain'd either by a private Goldſmith, or Banker, or by a more Publick and National-Bank. And,</p>
+            <p>Firſt of a private Banker: It is the Belief that the generality of Men are poſ<g ref="char:EOLhyphen"/>ſeſt, with of his Ability, Care and Honeſty; that is, Men believe that ſuch a Banker hath a good Foundation, is a careful, cautious, and honeſt Man; that he hath an Eſtate to ſatisfy every Creditor, and will not diſpoſe or alienate any part of it, but what he really knows to be an Overplus, or more than will anſwer all his Debts; that doth not launch out his Money in many Foreign Adventures, or on doubtful Projects, or uncertain Funds: a Perſon having once obtain'd ſuch a good Opinion amongſt the Generality of Men, and they finding they can have their Money when they demand it, are willing to take his Bills or Notes rather than Money, for their Eaſe in paying and receiving, and to avoid the Loſs that often happens by bad Money, or ſhortneſs in Tale. I ſay, 'tis for the afore-mentioned Reaſons that any Banket's Notes paſs cur<g ref="char:EOLhyphen"/>rently in all Paiments, and are eſteemed equal to Money; and not becauſe Men do generally believe, that a Banker hath always Money lying by him to pay all his Debts, though they ſhould be demanded all at once; none that underſtand themſelves, can have ſuch an odd Conceit: if a Banker ſhould do ſo, from whence could he get Profit to maintain Tellers, Book-keepers, Porters, pay great Rents, and get ſomething over and above to reward his Care and Pains?</p>
+            <p>It is ſaid, that one private Banker in <hi>Lombard-ſtreet</hi> had a Credit at one time for 1100000 Pounds Sterling, when probably no Man believed he had at the ſame time one twentieth part of that Sum by him to pay it with; but both he and his Creditors believ'd that whilſt he gave no occaſion to ſuſpect or que<g ref="char:EOLhyphen"/>ſtion his Ability and Honeſty to pay every one, it would be next impoſſible, that all his Creditors ſhould come at once to call their Money out of his Hands, but as faſt as ſome call'd it out, others would bring it in, and that would enable him to pay every Man's Demand, and ſo preſerve his Credit entire.</p>
+            <p>But on the contrary, whenever the Generality of Men have entertain'd an Opinion, That a Banker is careleſs, prodigal, diſhoneſt, or doth alienate any part of his Eſtate, more than is truly and properly his own, or engageth his Money in hazardous Adventures, new Projects, or doubtful and remote Funds,
+<pb n="2" facs="tcp:105617:2"/>by which he may be in danger to loſe a great part of his Eſtate, or not be able to command it in any reaſonable time (whereby is occaſion'd a Jealouſy of him) his Credit will preſently ſink, and all his Creditors come upon him to take their Money out of his Hands, fearing it not ſafe there; and then no Body will accept of his Notes in Paiment.</p>
+            <p>For the very ſame Reaſons, and by the ſame Methods, a Publick Bank may eſtabliſh and preſerve, or deſtroy its Credit.</p>
+            <p>If a Publick Bank be eſtabliſh'd upon a Fund that is certain, ſecure, and inviolable, not to be taken away, leſſen'd, chang'd or alter'd for the worſe, either as to Time or Security, upon any pretence whatever, either by King or Parliament, without the free Conſent of the Proprietors; and that the Mana<g ref="char:EOLhyphen"/>gers of it are Perſons of clear Reputations, Eſtates, Prudence, and generally eſteemed ſo, and are careful not to divide any part of their Stock, but only the bare Intereſt and Profits, and alſo cautious not to lend their Money upon any remote or uncertain Funds, or employ it in any hazardous ways; I ſay ſuch a Bank ſo managed; cannot fail of having a great and laſting Credit, and will never be in danger to be run upon by its Creditors, becauſe they can have no reaſon to fear, or diſtruſt the Safety of their Money, but may be ſure to have it whenever they demand it.</p>
+            <p>If the Fund of a Publick Bank be made as ſecure and unalterable as any Man's Freehold (as indeed it ought to be, in caſe you would make it a Bank of Credit, and by that Credit ſupply the Nation's Want of real Species) then no Man will ſcruple to truſt that Bank with his Money upon the Security of that Fund, no more than Men ſcruple to lend Money by way of Mortgage upon an Eſtate in Fee-ſimple, whereof the Title is clear and unqueſtionable: for the ſame Law that gives me a Title to my Free-hold, gives the Bank an undoub<g ref="char:EOLhyphen"/>ted Title to their Fund, during the time contracted for with the Publick, or till the Purchaſe-Money be repaid: And therefore any Supream Power or Go<g ref="char:EOLhyphen"/>vernment may with equal Juſtice enter upon one as they can violate the other. No Fund or Funds upon which a Bank is eſtabliſhed, and which the Members of it have purchaſed with their Money, or upon which a Bank or other parti<g ref="char:EOLhyphen"/>cular Perſons have lent their Money, ſhould be taken away, changed or alter<g ref="char:EOLhyphen"/>ed, except only with the free and voluntary Conſent of that Bank, or thoſe Perſons: for the taking away, changing or altering any Parliamentary Funds without ſuch free and voluntary Conſent, will render them precarious and un<g ref="char:EOLhyphen"/>certain, and by a natural conſequence deſtroy their Credit and Eſteem.</p>
+            <p>And alſo when the Parliament grant the King a Tax upon any thing, and give it him for a certain Sum, and to come in within a certain prefixed time, and impower him to borrow, and encourage the Subjects to lend ſo much as they give it for, if this Tax or Fund prove deficient by any Means or Occa<g ref="char:EOLhyphen"/>ſion whatever, and bring not in the full Sum it was given for, it cannot be thought reaſonable, that the Subjects who lent their Money in expectation to have it repaid them within the Term limited by that Act, and therefore lent it upon a leſs Intereſt, ſhould either loſe their Money, or wait for it a much longer time, but ſhould have the Deficiency made good to them out of the next Money that is raiſed. And if that Method was conſtantly obſerved, no Man would ſcru<g ref="char:EOLhyphen"/>ple
+<pb n="3" facs="tcp:105617:3"/>to lend his Money upon the latter part of any Parliamentary-Funds, which otherwiſe none will adventure to do, and that will hinder the King from Loans beyond the half of the Fund, or at fartheſt beyond ſo much as every Man be<g ref="char:EOLhyphen"/>lieves will moſt infallibly come in upon that Fund; and by that means the King's Occaſions will not ſeaſonably be ſupplied, but he muſt wait till the Col<g ref="char:EOLhyphen"/>lector can receive and pay the Money into the Exchequer: how that will ſute with our Circumſtances, eſpecially in Time of War, I leave to the Judgment of others.</p>
+            <p>I think it is obvious to every Man, that ſince this War, a conſiderable part of our Treaſure, I mean of Gold and Silver, is exhauſted; the Remainder of our Money is by the recoining of it, reduced to one half of what it was before in Tale or Denomination; that is, what we called before five Millions of Pounds Sterling, is reduced to two Millions and a half. And almoſt all that which is commonly called Paper-Credit, is ſunk, loſt, and become uſeleſs: And with that Paper-Credit, that is, with Goldſmiths, and Bank-Notes, which amounted to near as much as all our current Coin, the greateſt part of our Trade in and about this City of <hi>London</hi> was formerly driven; all Foreign and Inland Bills of Exchange, and all great Paiments were made in thoſe Notes, and very ſeldom any conſiderable Sums were paid or received in Money; ſo whilſt thoſe Notes continued in eſteem and <hi>par</hi> with Money, they anſwered all the Ends and Uſes of Money in Trade, and Money was only needful in the Markets, and for ſmaller Paiments, for all which Purpoſes, a ſmall quantity of it was ſufficient; and that made Money ſeem to be abundantly more plentiful among us, than it was in reality. But now it is plain we have ſcarce Money enough to turn the Markets, much leſs to carry on our Foreign Trade.</p>
+            <p>The truth of what is ſaid above being granted, I muſt conclude, we have not in the Kingdom one fourth part of the Money and Notes (which ſerv'd as well as Money) that we had a few Years ſince; and it is as certain, that ac<g ref="char:EOLhyphen"/>cording to the Proportion that we have now leſs in Money and Credit, our Loans to the King and our Trade will be leſs.</p>
+            <p>Nothing but a long continued Peace, and a well managed Foreign Trade, can reſtore that Treaſure this War hath drain'd from us; and how it is poſſible we ſhould now carry on our Trade to that degree we formerly did, with leſs than one fourth part of the Money and other Means we then had, I cannot un<g ref="char:EOLhyphen"/>derſtand.</p>
+            <p>And therefore ſince we have not real Species to do it with, nor can hope in any reaſonable number of Years ſufficiently to encreaſe our Species, I think there is no other way or Means left us, either to carry on the War or our Trade, with or without a War, to the Honour and Advantage of this King<g ref="char:EOLhyphen"/>dom, but only by reſtoring Credit, and by that Credit ſupply our want of real Coin.</p>
+            <p>How ſuch a Credit can be obtained is the Queſtion.</p>
+            <p>And for my part, conſidering our preſent Circumſtances, I think it cannot be effected any other way than by the Bank of <hi>England,</hi> as now eſtabliſh'd; and I am confident that Bank could do it, if they had thoſe Privileges and Encouragements the King and Parliament could grant them, without being prejudicial to any Subject.</p>
+            <pb n="4" facs="tcp:105617:4"/>
+            <p>It is certain, that all forcible and compulſive Means would deſtroy or fru<g ref="char:EOLhyphen"/>ſtrate that Credit they are intended to eſtabliſh and preſerve.</p>
+            <p>The only ſure way to obtain a laſting Credit muſt be eaſy, free and natural; Men will not truſt their Money any where, nor with any Perſon againſt their Inclinations: But whilſt they believe their Money is ſafe in a Bank, and will be paid them when they demand it, they will chuſe to lodg it there, rather than at home, upon account of thoſe Conveniences I mention'd before; but if either of thoſe things be queſtioned, they will be their own Caſhires, and not truſt their Money in ſuch a Bank.</p>
+            <p>Therefore, as I ſaid before, the only way to make the Bank of <hi>England</hi> ca<g ref="char:EOLhyphen"/>pable to ſupply the Nation's want of real Species by their Notes and Bills, is firſt to aſcertain to that Bank the Funds upon which they are eſtabliſhed, and have or ſhall hereafter lend any Money to the Government, by the ſtrongeſt Ties and Obligations of Security, that the Wiſdom of the Parliament can in<g ref="char:EOLhyphen"/>vent, ſo that the generality of Men may be ſatisfied therewith.</p>
+            <p>This is the firſt and chief Foundation to build a great and laſting Credit up<g ref="char:EOLhyphen"/>on; and without this there is no poſſibility to effect it, for no Man will truſt his Money where he believes it is not ſafe; and where this Conſideration is wanting, no Credit can ſubſiſt.</p>
+            <p>Another thing would be to change their Tallies upon the Deficiencies, for others that will come in this Year. Thoſe Tallies will be good Paiment for ſuch as have ſupplied the Fleet and Army with Stores, Clothes, <hi>&amp;c.</hi> by which it may be reaſonably preſumed they have got an extraordinary Profit; whereas the Bank hath loſt by ſerving the Government, and took thoſe Tallies as a De<g ref="char:EOLhyphen"/>poſit till the Commiſſioners of the Treaſury could give Money for them, as was promiſed and contracted for; ſo that the Caſe between the Bank and ma<g ref="char:EOLhyphen"/>ny others that have Tallies upon the Deficiencies is very different: and if the Bank be immediately reſtor'd to Credit, the remoteſt Tallies will ſoon be redu<g ref="char:EOLhyphen"/>ced to a moderate Diſcount, or eſteemed equal to Money: for it is obſervable that ſome time ago Tallies upon the fourth Year's Cuſtoms were ſold at 2 <hi>per Cent.</hi> Profit to the Seller, whereas by the Loſs of the Bank's Credit the ſame Tallies are now ſold at 30 <hi>per Cent.</hi> Profit to the Buyer.</p>
+            <p>And if it be objected that the Neceſſities of the Government will not now permit it to make ſuch an Exchange of Tallies as is above-mentioned; I an<g ref="char:EOLhyphen"/>ſwer, The greateſt Cauſe of all our Neceſſities is the want of Credit, and the reſtoring of that will deliver us from all our Difficulties.</p>
+            <p>When a Pump that hath plentifully furniſhed us with Water gives not ito uſual Supplies, we ſcruple not to heave in a Paleful (how ſcarce ſoever it be) to moiſten the Sucker, and we quickly find it returned with an abundant Intereſt.</p>
+            <p>The next Means to make the Bank able to lend great Sums, and thereby to ſupply the Nation's want of real Coin, is to make it the General Caſhire for all Gentlemen, Merchants and Traders in and about the City of <hi>London;</hi> which muſt not be done by Compulſion, but by making it neceſſary for, and the Intereſt and Convenience of every Man to lodg his Money in that Bank, and keep an account with it; and when the Generality of Traders do make ſuch uſe of it, the Bank will have little occaſion to iſſue out Money, but only
+<pb n="5" facs="tcp:105617:4"/>transfer it from one Account to another, as is now practiſed in the Banks of <hi>Amſterdam, Venice</hi> and <hi>Hamburgh;</hi> for if this Bank be once eſtabliſh'd and ſup<g ref="char:EOLhyphen"/>ported in their Credit by the Government, excluſive of all others, during the Term of its Continuance, and its Fund or Funds ſecured to the Satisfaction of the Generality of Men, then every Man will voluntarily, for his own Eaſe and Convenience, employ it to receive and pay his Money, and keep a Book, or Accounts, otherwiſe with it.</p>
+            <p>And this cannot be hoped for when there are more Banks than one: for where the Intereſts are divided and ſeparate, a Diſtruſt, Jealouſy and Envy will naturally ariſe to the Prejudice of each other; they will never dare to ex<g ref="char:EOLhyphen"/>tend their Credit, for fear of a Surprize by their Competitors; each Bank will have its Friends and Employers; and the Advantage of paying and receiving of Debts without Money, by transferring Sums from one Man's Account to another, will be loſt, and then Money will be as neceſſary to pay Debts with, as it is at this day; and if ſo, the main End is fruſtrated, which is to furniſh the Kingdom with an Imaginary Coin to ſerve the Uſes of that which is really ſo.</p>
+            <p>This (beſides the Experience and Example of other Countries) ſhews, that one Bank will be infinitely more ſerviceable and advantagious to this Kingdom, and beneficial to private Perſons, than two or more: for according to that Ob<g ref="char:EOLhyphen"/>ſervation of the late excellent, and never-to-be-forgotten Deputy-Governour, Mr. <hi>Michael Godfrey, We are under thoſe happy Circumſtances, that we cannot do good to our ſelves, but by doing good to others.</hi>
+            </p>
+            <p>Another way to enable the Bank to ſupply the Kingdom's Occaſions with Money, is to let ſeveral Branches of the King's Taxes and Revenues paſs through it; for by that means Money will be daily coming into it, to anſwer Peoples Demands that will take their Money from thence: And tho no part of the Taxes ſhould be permitted to lie in their Hands any conſiderable time after they have received it; yet as that which they received ſome days before is to be paid into the Exchequer, other Sums will come in to pay it with; and that ſucceſſively will always keep them full of Money, and enable them to pay eve<g ref="char:EOLhyphen"/>ry Man's Demand.</p>
+            <p>What Injury this Method can do the Publick I am yet to learn; and if it ſhould happen to be prejudicial to any private Perſons, who now have Benefit by the uſe of that Money, that Advantage muſt give way to the Nation's Ne<g ref="char:EOLhyphen"/>ceſſity and Welfare; and where it is in the King's Breaſt to give it to whom he pleaſeth, no Man can reaſonably complain of any Injuſtice done him; and I know no Man, nor number of Men, that have ſo well deſerved of His Ma<g ref="char:EOLhyphen"/>jeſty and the Kingdom as the preſent Bank of <hi>England</hi> hath done.</p>
+            <p>Otherways to render the Bank capable of aſſiſting the Nation, and cure the Evils we labour under for want of Money and Credit, are to lengthen the Term of its Continuance; to make all Foreign Bills of Exchange payable at the Bank, or at leaſt demanded there before they can be proteſted; by ſe<g ref="char:EOLhyphen"/>vere Penalties to deter Perſons from Forging, Counterfeiting, Altering or Razing any of their Bills or Notes; and the Officers of the Exchequer, and all Officers and Receivers of the Revenue, from deviating, delaying or obſtruct<g ref="char:EOLhyphen"/>ing the Courſe of Payments into the Bank.</p>
+            <pb n="6" facs="tcp:105617:5"/>
+            <p>I ſay, with Submiſſion, that if theſe Things were granted to the preſent Bank, it would immediately and infallibly recover its former Credit, and be able to ſerve all the Occaſions of the Publick, and private Perſons. And I think I may be bold to affirm, That the Credit of the Nation cannot be reſtored by any other means in any reaſonable number of Years: For we have a mighty Engine to move, and but very little Water to move it with; and if the little Water we have be divided into different Channels, and not united (as much as poſſible) into one, it can never ſtir the Engine, which is our Trade; and if that be ſtopt or ſtand ſtill, every Man may gueſs what the immediate Conſe<g ref="char:EOLhyphen"/>quence will be.</p>
+            <p>Therefore ſince Credit, eſpecially at this time, is ſo indiſpenſably neceſſary for us, I ſhould think the King and Parliament cannot do too much to re<g ref="char:EOLhyphen"/>ſtore it.</p>
+            <p>Till Credit (which ſupplied our Occaſions, as much as our real Species) be reſtor'd, the great Scarcity of Money will appear, and continue to diſtreſs us, as much as it doth at this day, and conſequently high Intereſt will continue; for it will be impoſſible by any Laws to hinder Men from lending or borrowing Money above or below the natural Intereſt. For if I want Money, I ſhall find out ways to give 10 <hi>per Cent.</hi> Intereſt, when I cannot have it for leſs, altho the Law forbids Men to take more than 6 <hi>per Cent.</hi> And if we either receive, or muſt pay a much greater Intereſt than our Trading Neighbours, they will unavoidably get from us all that little Trade the Nation hath now left. For no Man will ſend his Money to Sea, when he can make more Profit by lending it out upon Intereſt at home. And he that trades with Money he hath bor<g ref="char:EOLhyphen"/>rowed at 10 <hi>per Cent.</hi> cannot hold Market with him that borrows his Money at 4.</p>
+            <p>The ſame Inconvenience will attend all Gentlemen that want Money, either to pay their Debts, or diſpoſe of their Children: For till a great and full Credit be reſtored, they cannot borrow Money upon their Lands without giving an extravagant Intereſt, which in a little time will eat up their Eſtates. And another ill Effect it will have on the Price of their Land and Houſes: for no Man will buy Land or Houſes, when he can make double the Advantage by lend<g ref="char:EOLhyphen"/>ing his Money upon Intereſt, buying Tallies, Bank-Stock, or Bank-Bills.</p>
+            <p>If we ſhould have a Peace to Morrow, our preſent Difficulties, for want of Money or Credit, will not be thereby removed; Money will be as ſcarce then, as it is now; and the ſame Methods will be practiſed by the Rich, to prey upon the Neceſſities of others, as are at preſent.</p>
+            <p>Before this War Money ſeem'd to be very plentiful amongſt us; and any Man, upon good Security, could borrow what Sum he pleaſed at 4 <hi>per Cent. per Annum;</hi> our Foreign Trade was generally driven to the utmoſt degree it was capable of. But I think (with Submiſſion) it was not the real Plenty of Money that made Intereſt low, or our Trade flouriſh, but the great Credit the Goldſmiths then had, whereby were added as many Millions of Stock to the Nation, as we had in real Species.</p>
+            <p>But if (even in that time of Plenty of real Species) that Credit of the Goldſmiths had been ſunk, or loſt by any means whatſoever, every one muſt
+<pb n="7" facs="tcp:105617:6"/>grant that Intereſt would have greatly advanced, and our Trade had a terrible Stop and Declenſion: How much more muſt both theſe be affected now when that and all other Credit is loſt, and our Coin reduced to one third of what it was in thoſe days?</p>
+            <p>The longer we defer the reſtoring of Credit, the more difficult, if not im<g ref="char:EOLhyphen"/>poſſible it will be to effect it, and more eſpecially if the preſent War ſhould continue: For the longer we defer it, the poorer we ſhall grow; and the Art and Contrivance of jobbing our Money, and oppreſſing the Neceſſitous, by extorting from them unconſcionable Gain, will improve with the Uſe and Practice.</p>
+            <p>If we had no Forces abroad to draw our Money from us, yet the Vanity of our Faſhions in our Apparel, Furniture, Eating and Drinking, will conſume ſo many Foreign Commodities, as will over-ballance Trade to our Prejudice, and preſently ſink us into Debt; to diſcharge which (without a great and well-managed Trade) we ſhall be forced to part with the little Money we have left.</p>
+            <p>If to reſtore Credit the Bank of <hi>England</hi> ſhould be engrafted upon, it muſt evidently prejudice the preſent Proprietors of that Stock, which will not only be remembred by them and their Poſterity, but be reflected on by the new Subſcribers as a Hardſhip that may alſo fall to their turn ſome time or other.</p>
+            <p>All Men know the preſent Proprietors have done and ſuffered more for the Support of the Government than any Body of Men ever yet did; and by thoſe very Services only they are reduced to their preſent unhappy Circumſtances, which in reaſon they ought to be delivered from by thoſe for whoſe ſakes they were brought into them. And if that be not done, not only they, but all others by the Example of their Sufferings, will be for ever diſcouraged from ſerving the Publick.</p>
+            <p>It is true, when they were told by ſome certain Gentlemen of Note, and others, That except they did ſubmit to be engrafted upon, there would be no Favour ſhewed them, and that they could not expect to recover their Credit till the end of their Term, and till then no part of their Intereſt could be divided amongſt the Members of the Corporation; the major part of the Ge<g ref="char:EOLhyphen"/>neral Court did agree to it, ſome being terrified by thoſe dreadful Stories, ſome to ſerve other Ends and Intereſts of their own, and others by miſtaken Notions of the Thing. But this was far from a free and voluntary Conſent; for no Proprietor, if he had believed the Government would have helped them, and reſtored their Credit (as it is eaſy for them to do) would ever have been induced to give his Conſent to any Engrafting, becauſe that doth unavoidably cut off all hopes of future Profits by the Bank.</p>
+            <p>Beſides, when the Members of the Bank cannot expect any Profits from it, but only the bare 8 <hi>per Cent.</hi> which is as well ſecured to them without a Bank, they will never trouble their Heads about it, much leſs let any of their Money lie there to ſupport it; but as Money comes in, every Man will be ſcrambling to take away his Share; all Publick-ſpiritedneſs will infallibly vaniſh at the remembrance of the Ingratitude ſhewed to the old Proprietors: for no Man
+<pb n="8" facs="tcp:105617:7" rendition="simple:additions"/>in his Senſes can hope to deſerve more than they have done, tho ſo ill re<g ref="char:EOLhyphen"/>quited for all their paſt Services.</p>
+            <p>The Members of the Bank have actually paid in 80 <hi>per Cent.</hi> and they have 20 <hi>per Cent.</hi> Intereſt and Profits more to divide, having had no Dividends for a long time. And now this 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> muſt be only eſteemed equal with Tallies bought for 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> and thoſe that have them in Payment for Goods, have got 40 or 50 <hi>per Cent.</hi> more of the King for their Goods, than they could have had of any Subject; but the Members of the Bank have got nothing, nor in three Years divided more than 10 <hi>per Cent.</hi> So that they, notwithſtanding their Merits, will, if engrafted upon, be much more hardly dealt with than other People, and that in all Probability without doing any Service to the Publick: for ſuppoſing two Millions ſhould be ſubſcribed into the Bank, that would only bring in 400000 <abbr>
+                  <hi>l.</hi>
+               </abbr> of their Notes (which is one fifth part of the two Millions) and that Sum cannot leſſen the Diſcount on their Notes, nor bring them to <hi>par;</hi> ſo the Deſign of Engrafting, which is to reſtore the Credit of the Bank, would be fruſtrated, and the preſent Proprietors injured, and yet no Man can pretend a Certainty that more, or ſo much will be ſubſcribed.</p>
+            <p>Hence it ſeems unadviſeable to Engraft upon the Bank, when ſuch En<g ref="char:EOLhyphen"/>grafting is ſo uncertain of anſwering the End aimed at.</p>
+            <p>But to reſtore the <hi>Bank</hi> of <hi>England</hi> to Credit without Engrafting upon it, will ſave the Nation near 500000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Intereſt, thus; It is propoſed to Engraft five Millions upon it, and to raiſe the Intereſt of the ſaid five Millions to 8 <hi>per Cent.</hi> which I reckon one with another is about 2 <hi>per Cent.</hi> more than is now allowed upon thoſe Tallies, and that will in ten Years time (in which both Principal and Intereſt is intended to be paid off) amount to near the Sum men<g ref="char:EOLhyphen"/>tioned above. Whereas by reſtoring the Bank's Credit without Engrafting, all that Money would be ſaved, and yet thoſe Tallies for five Millions at the preſent Intereſt, would be more valuable than they will be at 8 <hi>per Cent.</hi> when turn'd into Bank-Stock, and conſequently more advantagious and pleaſing to the Owners thereof: for the reſtoring of a full Credit, will moſt certainly reduce Tallies to <hi>par</hi> with Money; but none can imagine that Bank-Stock will be ſold for 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> when there is ſix Millions and 200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> daily at the Market.</p>
+            <p>It is worth obſerving, that Tallies of 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> upon the Land-Tax and Aid granted this Seſſion are ſold for 400 <abbr>
+                  <hi>l.</hi>
+               </abbr> which is 25 <hi>per Cent.</hi> Loſs; and according to that Proportion the King muſt pay more for Credit abroad, and Stores, <hi>&amp;c.</hi> at home, than if thoſe Tallies were at <hi>par</hi> with Money. So that the 5 Millions given and voted for this Year's Service will in effect be no more than 4. And if His Majeſty's Occaſions want 5, he will be a Million in Debt at the Year's end, ſo for want of Credit the Nation muſt be taxed one Million more than otherwiſe it needed to be, which would be immediately remedied were the Bank in Credit.</p>
+            <p>I ſhall conclude with this Poſition, That if Publick Credit can by any means be reſtored, without prejudicing the Rights either of privare Perſons, or any Publick Society, it is much more eligible to do it by ſuch, than any contrary Methods; and that it may be ſo accompliſhed, I have endeavoured to ſhew.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Andr. Bell</hi> at the Croſs-keys and Bible in <hi>Cornhil.</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
